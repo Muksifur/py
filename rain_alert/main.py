@@ -1,8 +1,8 @@
 import requests
 from twilio.rest import Client
 
-account_sid = ''
-auth_token = ''
+account_sid = 'AC4553896ec9e1e5cd9689e37fe10f73d4'
+auth_token = '05fa47c5baadd2d4c57849d23c7ada9a'
 LAT = 68
 LNG = 129
 ENDPOINT = "https://api.openweathermap.org/data/3.0/onecall"
